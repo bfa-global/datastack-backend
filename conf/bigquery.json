@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nfs-maps",
+  "private_key_id": "dcac98cfd0e1e538f217c4aa5b14e26244c32379",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxDWrEs8NdYZQb\ndOjNok+AO7lb2p2FHTYBRhPUcrIwwb+djCGKi3zlh97uigEL5VNPdrvYCS7pOwPo\nWNgQa7R21fFcSqyz3dmM4fnAGQyHAEQvwHvfOTA+iSqaNO305T1hKE+915H0dxlI\n59YyJo0Wp7YqTnGWW1ZAiY9k1p/Mz/zwMFMSpZLDUgenmm4m97NpadtlrM9XbcsW\n1xGf6NC6rMNaLsyG6pwLnzb5BcdjtWgHftZzggqYoFx5v6T+Yj8G4QTpjQMwuXu3\n6mSPBqS1yVIZEfp33E1EiGeeB7WiSXXYMXT6USQ+Dl4G7r6FAtmfO3C+UMzjxXGN\njDn/+g47AgMBAAECggEAQMuwveEuB/BMpEnCY3NZ1gvFd+THji5VE91CJ5d8OBTI\nHA/rPIl1AYmaoED4RhK8zRGeiF9AAFI9SVyuYkAQkQcWKFkZ4E+6LPGMle105LlH\nuxQeIWEME27enQXu6he1QWff2xHYFBg8NC7IeJ0cOGTTaaNAta6in8bYKCbV373I\neznnzxJWMacdNnBBM12YIXM8YsIcbYQSNrKJTZFr23vIBXPM7fLPcW7nuL9lTjJs\noVD3AswXbyvPjxa8liOt3tm5Ryxq6SIcdzdHpA2p8Gt+BDKnr/nql0oObM2Wxq14\nnq0eJ0Y5g6L53nmhTOSQbmOwXjVO12fBgl1K65rdkQKBgQDg26l3MJsg7FvsGC7J\nG4OUHLCjrzx4okE4J7w3aongrUAwQHklm5YIW61kByWI4sf6AiWLGTxs+hcHzLso\nfeschyk1eb8DKQXMh/pdd8jCbtAlNLqO76PVMhxauB1GUu/qY/JPehluitfIzkEF\nw7KSCZnUp/UlgmoNEpR2G66oUQKBgQDJks6QQtO8CXyYkCWKDiwWIXGStyonGNEw\nmHsfXz2nK0bOYP6uiZsldBghN75rSJcHdh/nipcNcCLINn7CwarVANGtIg0RvKqh\n0KxoKctiI+f1p31cRdntYKWjJV6zd+2Su1yv+FgxEQiuYoTa45EFoLLQEDaoozN+\n4qycEIG2ywKBgGuvhzc3pfNcfqFQ64cQkDEslEOvtownWIimLvNzKFjbX/Q7zEkA\nfBfAoAdZjNZDlXXb9VLqYQ/nrYPkvnUj6Kce69NaXOoMiWRscrC0nwbOvwwydm3h\nwlplx0KDDjIRoihkeTUqymcwQys969Hw6OIbivpW/YZbMKLWFReDJmAhAoGAXq4N\nRmeNSrJuCr8SUuFLRe3Zid9s9kZK4/eLRXYX4HCMZp3aoqLR8+qu9tNXJs9G2WNb\nowdO4in8vGwUaGhNVJV450iqON2UjEMW6CpRdLyG1LUiRfgtX7lYs+P2snevaI+G\n/sS4r/tfR4HRA3uGf802kFI9SkK2CnBwQTHjq7cCgYEA2r/c7kfvJCIMLN9SRoQ3\njf2tXnxkDNKOcdmAVOJ4fKRTgaEzfRyU0ZUWnDDnidmScDR5W/hZ0MXxZa+klcb8\n2nWp8SZahUCWVRoa4+zbbGPqjBLT8oZ4itNgpY3vVBKBg5smMgZ9PPNTcBKIcihd\n6+nzsCJ0jxp68caum6dwOvg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-querier@nfs-maps.iam.gserviceaccount.com",
+  "client_id": "107503048783120461490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-querier%40nfs-maps.iam.gserviceaccount.com"
+}
